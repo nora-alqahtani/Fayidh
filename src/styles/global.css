@@ -1,0 +1,8 @@
+:root { font-family: system-ui, sans-serif; color: #182532; background: #f7f9fb; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+a { color: #146b67; }
+.site-header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem; padding: 1rem 1.5rem; background: #fff; border-bottom: 1px solid #dce5e9; }
+.site-header nav { display: flex; flex-wrap: wrap; gap: 1rem; }
+.page { max-width: 980px; margin: 2rem auto; padding: 1.5rem; background: white; border: 1px solid #dce5e9; border-radius: 12px; }
+.site-footer { text-align: center; padding: 2rem; color: #566; }
